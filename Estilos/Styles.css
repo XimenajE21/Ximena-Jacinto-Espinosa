@@ -1,0 +1,347 @@
+#titulo {
+text-align: center;
+color: 	#F2F2F2;
+font-family: 'Anton'; 
+font-size: 80px;
+}
+
+body{
+	background-color: #536D72;
+	margin: 0;
+}
+
+#subtema1 {
+	color: #F2F2F2;
+	font-family: 'Paytone One';
+	font-size: 34px;
+	text-align: center;
+	background-color:#004444;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+	#subtema2 {
+	color: #F2F2F2;
+	font-family: 'Paytone One';
+	font-size: 34px;
+	text-align: center;
+	align-self: center;
+	background-color:#004444;
+	margin-left: 340px;
+	margin-right: 350px;
+}
+#subtema3 {
+	color: #F2F2F2;
+	font-family: 'Paytone One';
+	font-size: 34px;
+	text-align: center;
+	background-color:#004444;
+	margin-left: 350px;
+	margin-right: 350px;
+	
+
+}
+#subtema4 {
+	color: #F2F2F2;
+	font-family: 'Paytone One';
+	font-size: 34px;
+	text-align: center;
+	background-color:#004444;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+#subtema5 {
+	color: #F2F2F2;
+	font-family: 'Paytone One';
+	font-size: 34px;
+	text-align: center;
+	background-color:#004444;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+#subtema6 {
+	color: #F2F2F2;
+	font-family: 'Paytone One';
+	font-size: 34px;
+	text-align: center;
+	background-color:#004444;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+
+#imagen1 {
+	height: 300px;
+	margin-right: 420px;
+	margin-left: 420px;
+	display: block;
+	margin-top: 20px;
+}
+
+#imagen2 {
+	height: 250px;
+    margin-right: auto;
+    margin-left: 20px; 
+}
+
+#imagen3 {
+	height:275px;
+	align-items: center;
+	margin-right: 20px;
+	margin-left: auto;
+  
+}
+#imagen4 {
+	height:250px;
+	margin-right: auto;
+	margin-left: 20px;
+  
+   
+}
+
+#imagen0 {
+	height:260px;
+	margin-right: 20px;
+	margin-left: auto;
+  
+   
+}
+
+#imagen5 {
+	height:290px;
+	margin-right: 430px;
+	margin-left: 430px;
+	display: block;
+   
+}
+#imagen6 {
+	height:250px;
+	margin-right: 400px;
+	margin-left: 420px;
+   margin-top: 1px;
+
+	}
+
+#imagen7 {
+	height:317px;
+	margin-right: 80px;
+	margin-left: 80px;
+	display: block;
+	margin-top: 40px;
+   
+}
+
+#imagen8 {
+	height:220px;
+	margin-right: 20px;
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+   
+}
+#imagen9 {
+	height:220px;
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 10px;
+
+
+}
+
+#imagen10 {
+	height:230px;
+	margin-left: 20px;
+    margin-right: 15px;
+
+}
+#imagen11 {
+	height:240px;
+	margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+
+}
+
+#imagen12 {
+	height:240px;
+	margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+
+
+}
+#imagen13 {
+width: 1190px;
+height: 170px;
+margin-left: 80px;
+
+
+
+}
+
+#imagen14{
+	margin-right: 80px;
+	margin-top: 40px;
+	height: 317px;
+
+	
+}
+#texto1 {
+	font-family:'Quicksand';
+	line-height: 18px;
+	margin: 40px 40px;
+	width: 40px 40px;
+	font-size: 17px;
+
+}
+
+#texto2 {
+	font-family:'Quicksand';
+	line-height: 18px;
+	margin: 40px 40px;
+	width: 40px 40px;
+	font-size: 17px;
+}
+
+#texto3 {
+    font-family:'Quicksand';
+    font-size: 17px;
+	margin: 40px 40px;
+	width: 40px 40px;
+	text-align: center;	
+	line-height: 25px;
+	text-align: justify;
+
+}
+
+#link0 {
+font-family:'Londrina Solid';
+	font-size: 24px;
+	line-height: 15px;
+	margin-right: 340px;
+	margin-left: 540px;
+	line-height: 18px;
+}
+
+
+
+#link3 {
+	font-family:'Londrina Solid';
+	font-size: 28px;
+	margin-left: 530px;
+
+}
+
+#frase1 {
+	font-family: 'Averia Serif Libre';
+	text-align: center;
+	font-size: 29px;
+}
+
+
+#cara1 {
+	font-family: 'Varela Round';
+}
+
+#sub-imagen {
+text-align: left;
+font-family:'Sanchez';
+font-size: 16px;
+margin: 0px 0px 40px 40px;
+margin-right: 0px;
+}
+
+#sub-imagen2{
+text-align: right;
+font-family:'Sanchez';
+font-size: 16px;
+margin-right: 160px;
+margin-bottom: 0px;
+}
+
+
+
+#pie1{
+	font-family: 'IBM Plex Serif';
+	font-size: 19px;
+	margin-left: 480px;
+
+
+}
+
+.container {
+	width: 85%;
+	max-width: 990px;
+	margin: 0 auto;
+}
+
+.header{
+	background-image:url(C:/Proyecto/imagenes/bosque.jpg); ;
+	background-size:cover;
+	background-position: center center;
+	background-attachment: fixed;
+	color: white;
+	padding: 1.3rem 0; 
+	font-family: 'Kreon';
+	font-size: 21px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+}
+
+.header a {
+	color: white;
+	text-decoration: none;
+}
+
+.logo-nav-container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.navigation ul {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+
+.navigation ul li {
+	display: inline-block;
+}
+
+.navigation ul li a {
+	display: block;
+	padding: 0.5rem 1rem;
+	transition: all 0.4s linear;
+	border-radius: 5px;
+}
+
+.navigation ul li a:hover {
+	background: #ccc;
+}
+
+.logo{
+	letter-spacing: 10px;
+	font-size: 2em;
+	font-family: 'Anton';
+}
+
+#main {
+	padding-top: 7rem; 
+}
+
+
+#footer {
+	background:#414a4c;
+	padding: 0.2rem 0;
+	text-align: center;
+	margin-top: 7rem;
+	font-family: 'Sanchez';
+color: white;
+}
+
+
+#audio{
+
+}

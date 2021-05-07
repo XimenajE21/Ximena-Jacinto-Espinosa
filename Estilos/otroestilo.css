@@ -1,0 +1,372 @@
+body{
+	background-color: #536D72;
+	margin: 0;
+}
+.container {
+	width: 85%;
+	max-width:990px;
+	margin: 0 auto;
+}
+
+.header{
+	background-image:url(C:/Proyecto/imagenes/bosque.jpg); ;
+	background-size:cover;
+	background-position: center center;
+	background-attachment: fixed;
+	color: white;
+	padding: 1.3rem 0; 
+	font-family: 'Kreon';
+	font-size: 21px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+}
+
+.header a {
+	color: white;
+	text-decoration: none;
+}
+
+.logo-nav-container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.navigation ul {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+
+.navigation ul li {
+	display: inline-block;
+}
+
+.navigation ul li a {
+	display: block;
+	padding: 0.5rem 1rem;
+	transition: all 0.4s linear;
+	border-radius: 5px;
+}
+
+.navigation ul li a:hover {
+	background: #ccc;
+}
+
+.logo{
+	letter-spacing: 10px;
+	font-size: 2em;
+	font-family: 'Anton';
+}
+
+#main {
+	padding-top: 7rem; 
+}
+
+#pies{
+	background:#414a4c;
+	padding: 0.2rem 0;
+	text-align: center;
+	margin-top: 7rem;
+	font-family: 'Sanchez';
+color: white;
+}
+
+
+
+#titulo0{
+color: #F2F2F2;
+font-family: 'Anton';
+font-size: 80px;
+text-align: center;
+letter-spacing: 2px;
+}
+
+#temita{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 430px;
+	margin-right:430px;
+	letter-spacing: 1px; 
+}
+
+#temita2{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 495px;
+	margin-right:495px; 
+	letter-spacing: 1px; 
+}
+
+#temita3{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 430px;
+	margin-right:430px; 
+	letter-spacing: 1px; 
+}
+
+#temita4{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 480px;
+	margin-right:480px; 
+	letter-spacing: 1px; 
+}
+
+#temita5{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 540px;
+	margin-right:540px; 
+	letter-spacing: 1px; 
+}
+
+#temita6{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 540px;
+	margin-right:540px; 
+	letter-spacing: 1px; 
+}
+
+#temita7{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 475px;
+	margin-right:475px; 
+	letter-spacing: 1px; 
+}
+
+#temita8{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 460px;
+	margin-right:460px; 
+	letter-spacing: 1px; 
+}
+
+#temita9{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 430px;
+	margin-right:430px; 
+	letter-spacing: 1px; 
+}
+
+#text{
+	font-family:'Quicksand';
+	line-height: 18px;
+	margin: 40px 40px;
+	width: 40px 40px;
+	font-size: 17px;
+
+}
+
+
+#ima1{
+	height: 280px;
+	margin-right: 30px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-left: 7px;
+
+}
+
+#audi1{
+	margin-left: 40px;
+}
+
+#taco1{
+	margin-left: 40px;
+	font-family:'Righteous';
+	font-size: 22px;
+}
+
+#audi2{
+	margin-left:720px;
+}
+
+#taco2{
+	text-align: right;
+	font-family:'Righteous';
+	font-size: 22px;
+	margin-right: 40px;
+}
+
+#ima2{
+	height: 300px;
+	margin-left: 30px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-right: 12px;
+}
+#taco3{
+	margin-left: 40px;
+	font-family:'Righteous';
+	font-size: 22px;
+}
+
+#ima3{
+	height: 300px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+
+}
+
+#audi3{
+	margin-left: 40px;
+}	
+
+
+#audi4{
+	margin-left:720px;
+}
+
+#taco4{
+	text-align: right;
+	font-family:'Righteous';
+	font-size: 22px;
+	margin-right: 40px;
+}
+
+#ima4{
+	height: 300px;
+	margin-left: 30px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-right: 12px;
+}
+
+
+#taco5{
+	margin-left: 40px;
+	font-family:'Righteous';
+	font-size: 22px;
+}
+
+#ima5{
+	height: 300px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-left: 7px;
+
+}
+
+#audi5{
+	margin-left: 40px;
+}	
+
+
+#audi6{
+	margin-left:1000px;
+}
+
+#taco6{
+	text-align: right;
+	font-family:'Righteous';
+	font-size: 22px;
+	margin-right: 40px;
+}
+
+#ima6{
+	height: 225px;
+	margin-left: 30px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-right: 12px;
+}
+
+
+#taco7{
+	margin-left: 40px;
+	font-family:'Righteous';
+	font-size: 22px;
+}
+
+#ima7{
+	height: 280px;
+	margin-left: 7px;
+	margin-right: 40px;
+
+}
+
+#audi7{
+	margin-left: 40px;
+}
+
+#audi8{
+	margin-left:1000px;
+}
+
+#taco8{
+	text-align: right;
+	font-family:'Righteous';
+	font-size: 22px;
+	margin-right: 40px;
+}
+
+#ima8{
+	height: 300px;
+	margin-left: 30px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-right: 12px;
+}	
+
+#taco9{
+	margin-left: 40px;
+	font-family:'Righteous';
+	font-size: 22px;
+}
+
+#ima9{
+	height: 290px;
+	margin-left: 7px;
+	margin-right: 40px;
+
+}
+
+#audi9{
+	margin-left: 40px;
+}
+
+
+#frasedehoy{
+	font-family: 'Averia Serif Libre';
+	text-align: center;
+	font-size: 29px;
+}
+
+#cajita{
+	position: static;
+}

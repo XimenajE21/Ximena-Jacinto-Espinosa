@@ -1,0 +1,124 @@
+body{
+	background-image: url(C:/Proyecto/imagenes/equivo.jpg);
+	background-size:cover;
+	background-position: center center;
+	background-attachment: fixed;
+	margin: 0;
+	
+}
+
+.container {
+	width: 85%;
+	max-width: 990px;
+	margin:0 auto;
+}
+
+
+.header{
+	background-color: black;
+	color: white;
+	padding: 1.3rem 0; 
+	font-family: 'Kreon';
+	font-size: 21px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+
+
+
+}
+
+.header a {
+	color: white;
+	text-decoration: none;
+}
+
+
+.logo-nav-container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.navigation ul {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+
+.navigation ul li {
+	display: inline-block;
+}
+
+.navigation ul li a {
+	display: block;
+	padding: 0.5rem 1rem;
+	transition: all 0.4s linear;
+	border-radius: 5px;
+}
+
+.navigation ul li a:hover {
+	background: #ccc;
+}
+
+.logo{
+	letter-spacing: 10px;
+	font-size: 2em;
+	font-family: 'Anton';
+}
+
+.main {
+	padding-top: 15rem; 
+}
+
+
+.footer {
+	background:#414a4c;
+	padding: 0.2rem 0;
+	text-align: center;
+	margin-top: 7rem;
+	font-family: 'Sanchez';
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#video {
+	height: 400px;
+	margin-left: 55px; 
+}
+
+#dos{
+	height: 190px;
+}
+
+#tres{
+	font-family:'Averia Serif Libre';
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+
+#cuatro{
+margin-left: 170px;
+
+}
+
+#cinco{
+	text-align: center;
+	font-family: 'Londrina Solid';
+	color: white;
+	font-size: 30px;
+}

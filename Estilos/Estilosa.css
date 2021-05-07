@@ -1,0 +1,208 @@
+body{
+	margin: 0;
+	background-color: #536D72;
+}
+
+
+
+.container {
+	width: 85%;
+	max-width: 990px;
+	margin:0 auto;
+}
+
+
+.header{
+	background-image:url(C:/Proyecto/imagenes/bosque.jpg);
+	background-size:cover;
+	background-position: center center;
+	background-attachment: fixed;
+	color: white;
+	padding: 1.3rem 0; 
+	font-family: 'Kreon';
+	font-size: 21px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+
+
+
+}
+
+.header a {
+	color: white;
+	text-decoration: none;
+}
+
+
+.logo-nav-container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.navigation ul {
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+
+.navigation ul li {
+	display: inline-block;
+}
+
+.navigation ul li a {
+	display: block;
+	padding: 0.5rem 1rem;
+	transition: all 0.4s linear;
+	border-radius: 5px;
+}
+
+.navigation ul li a:hover {
+	background: #ccc;
+}
+
+.logo{
+	letter-spacing: 10px;
+	font-size: 2em;
+	font-family: 'Anton';
+}
+
+.main {
+	padding-top: 5rem; 
+}
+
+#pie{
+	background:#414a4c;
+	padding: 0.2rem 0;
+	text-align: center;
+	margin-top: 7rem;
+	font-family: 'Sanchez';
+color: white;
+}
+
+#titulo2 {
+	color: #F2F2F2;
+	font-family: 'Anton';
+	font-size: 80px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+#frase2 {
+	font-family: 'Averia Serif Libre';
+	text-align: center;
+	font-size: 28px;
+	margin: 40px 40px;
+	width: 40px 40px;
+}
+
+#imagen15{
+	margin-left: 450px;
+	height: 275px;
+}
+
+#imagen16{
+height: 220px;
+margin-bottom: 4px;
+margin-right: 25px;
+}
+#imagen17{
+	height: 210px;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	margin-right: 7px;
+}
+
+#imagen18{
+	height: 200px;
+	margin-right:25px;
+	margin-top: 7px;
+	margin-left: 7px;
+}
+
+#imagen19{
+	height: 350px;
+	margin-left: 80px;
+	width: 215px;
+}
+
+#imagen20{
+	height: 350px;
+	margin-right: 80px;
+}
+
+
+#beso{
+	height: 235px;
+	margin-left: 7px;
+	margin-top: 7px;
+}
+
+#subte1{
+	text-align: center;
+	color:  #F2F2F2;
+	font-family: 'Paytone One';
+	background-color:#004444;
+	font-size:34px; 
+	margin-left: 380px;
+	margin-right:380px;  
+}
+
+#subte2{
+	text-align: center;
+	font-family: 'Paytone One';
+	letter-spacing: 3px;
+	font-size: 	35px;
+	color:  #F2F2F2;
+	background-color: #004444;
+	margin-left: 200px;
+	margin-right:200px; 
+}
+
+#subte3{
+text-align: center;
+	font-family: 'Paytone One';
+	letter-spacing: 3px;
+	font-size: 	35px;
+	color:  #F2F2F2;
+	background-color: #004444;
+	margin-left: 410px;
+	margin-right:410px; 
+}
+
+
+
+
+
+#texto0{
+	font-family:'Quicksand';
+	line-height: 18px;
+	margin: 40px 40px;
+	width: 40px 40px;
+	font-size: 17px;
+}
+
+
+#textoa{
+	font-family:'Quicksand';
+	line-height: 18px;
+	margin: 40px 40px;
+	width: 40px 40px;
+	font-size: 17px;
+}
+
+
+#vidio{
+	height: 325px;
+	margin-left: 80px;
+}
+
+
+#frase0{
+	font-family: 'Averia Serif Libre';
+	text-align: center;
+	font-size: 29px;
+
+}
+
